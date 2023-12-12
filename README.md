@@ -3,3 +3,4 @@
 ## so no need to use your mouse_event anymore
 
 ## SonyDriverHelper::api::MouseMove(aX, aY); // enable aimbot when mouse cursor is hidden
+add this into your main : SonyDriverHelper::api::Init();
